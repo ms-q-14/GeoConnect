@@ -109,16 +109,12 @@ SSH: git@github.com:ms-q-14/geoconnect.git
 ```sh
 Open a terminal:
 1. cd backend
-2. sudo npm install -g nodemon
-3. npm install
-4. npm start
+2. npm start
 
 
 Open another terminal:
 1. cd frontend
-2. npm install
-3. npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-4. npm start
+2. npm start
 ```
 
 ## Usage
