@@ -84,7 +84,7 @@ npm install npm@latest -g
 
 ```sh
 git clone
-HTTP: https://github.com/ms-q-14/geoconnect.git
+HTTPS: https://github.com/ms-q-14/geoconnect.git
 SSH: git@github.com:ms-q-14/geoconnect.git
 ```
 
@@ -92,7 +92,7 @@ SSH: git@github.com:ms-q-14/geoconnect.git
 
 ```sh
 1. cd frontend --> npm install --force
-2. cd backedn --> npm install
+2. cd backend --> npm install
 ```
 
 3. Acquire API key and MongoDB URL
