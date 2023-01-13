@@ -99,9 +99,9 @@ SSH: git@github.com:ms-q-14/geoconnect.git
 
 ```sh
 1. Go to https://account.mapbox.com/ and acquire an api key
-2. Locate .env under frontend folder file and enter api key after REACT_APP_MAPBOX
+2. Create .env under frontend folder file and enter api key after "REACT_APP_MAPBOX="
 3. Go to https://www.mongodb.com/ and create a culter and click connect to app to mongo url
-4. Locate .env file under backend folder and enter mongo url key after MONGO_URL
+4. Create .env file under backend folder and enter mongo url key after "MONGO_URL="
 ```
 
 4. CD to Frontend and Backend and run
